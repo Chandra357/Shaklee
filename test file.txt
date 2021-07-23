@@ -1,1 +1,3 @@
 Temp file
+Adding new code 1
+:line new code 3
